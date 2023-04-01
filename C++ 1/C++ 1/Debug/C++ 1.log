@@ -1,5 +1,0 @@
-﻿  源.cpp
-D:\Users\86195\source\repos\C++ 1\C++ 1\源.cpp(10,26): warning C4838: 从“int”转换到“char”需要收缩转换
-D:\Users\86195\source\repos\C++ 1\C++ 1\源.cpp(10,35): warning C4305: “初始化”: 从“int”到“char”截断
-D:\Users\86195\source\repos\C++ 1\C++ 1\源.cpp(10,26): warning C4309: “初始化”: 截断常量值
-  C++ 1.vcxproj -> D:\Users\86195\source\repos\C++ 1\Debug\C++ 1.exe
