@@ -1,0 +1,2 @@
+﻿  test.c
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\easyx.h(31,1): fatal error C1189: #error:  EasyX is only for C++
