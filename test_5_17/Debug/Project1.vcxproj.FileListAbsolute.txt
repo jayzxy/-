@@ -1,0 +1,2 @@
+C:\Users\DELL\source\repos\Project1\Debug\Project1.exe
+D:\Develop\C语言\test_5_17\Debug\Project1.exe

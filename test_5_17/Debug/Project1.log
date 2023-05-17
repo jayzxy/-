@@ -1,0 +1,12 @@
+﻿  game.c
+C:\Users\DELL\source\repos\Project1\game.c(16,42): warning C4030: 第一个形参表比第二个长
+C:\Users\DELL\source\repos\Project1\game.c(16,48): error C2059: 语法错误:“类型”
+C:\Users\DELL\source\repos\Project1\game.c(16,60): error C2059: 语法错误:“)”
+  test.c
+C:\Users\DELL\source\repos\Project1\test.c(19,16): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+C:\Users\DELL\source\repos\Project1\test.c(20,16): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+C:\Users\DELL\source\repos\Project1\test.c(23,19): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+C:\Users\DELL\source\repos\Project1\test.c(25,14): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+C:\Users\DELL\source\repos\Project1\test.c(28,15): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+C:\Users\DELL\source\repos\Project1\test.c(28,21): warning C4048: “char (*)[11]”和“char [9][9]”数组的下标不同
+  正在生成代码...
